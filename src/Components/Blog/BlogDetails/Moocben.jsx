@@ -13,7 +13,7 @@ import { FaPlus } from "react-icons/fa6";
 import { GoChevronLeft } from "react-icons/go";
 import { GoChevronRight } from "react-icons/go";
 
-const Moocben = () => {
+const BlogDetails = () => {
   const scrollToTop = () => {
     window.scrollTo({
       top: 0,
@@ -169,4 +169,4 @@ const Moocben = () => {
   );
 };
 
-export default Moocben;
+export default BlogDetails;
