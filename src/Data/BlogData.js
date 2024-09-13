@@ -10,7 +10,7 @@ let BlogData = [
     blogID: 1,
     blogThumbnail: blog1,
     blogDate: "April 01, 2024",
-    blogHeading: "Woman with good shoes is never be ugly place",
+    blogHeading: "Mooc ben Soosan",
   },
   {
     blogID: 2,
